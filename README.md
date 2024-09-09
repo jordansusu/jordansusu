@@ -15,11 +15,11 @@
 
 :health_worker: [Contract Front End Developer (Desygner PTY LTD.)](https://desygner.com/) - (Nov.2022-Feb.2023)
 
-:student: Master of Information Technology (Queensland University of Technology, Australia) - (2022-2023)
+:student: Master of Information Technology (QUT, Australia) - (2022-2023)
 
 :health_worker: [Junior Software Developer (Ulic Digital Inc.)](https://www.ulictek.com/en) - (Jul.2020-Feb.2022)
 
-:student: Bachelor of Applied Mathematics (National Chung Hsing University, Taiwan) - (2014-2019)
+:student: Bachelor of Applied Mathematics (NCHU, Taiwan) - (2014-2019)
 
 <br />
 
