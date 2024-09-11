@@ -2,7 +2,7 @@
 
 ### About Me
 
-:fist_right: I am a Front end developer with master degree of Computer Science.
+:fist_right: I am a Junior Front end developer with master degree of Computer Science and around 3 years work experience.
 
 👨‍💻 I am passionate about Web/Mobile Dev & avidly interested in learning.
 
